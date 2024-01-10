@@ -16,7 +16,7 @@
 #   along with this file.  If not, see <https://www.gnu.org/licenses/>.        #
 ################################################################################
 #   Purpose:                                                                   #
-#       Compiles all of the C code and assembly the Python module.             #
+#       Compiles all of the C code and assembles the Python module.            #
 ################################################################################
 #   Author:     Ryan Maguire                                                   #
 #   Date:       January 10, 2024                                               #
